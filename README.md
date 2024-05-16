@@ -6,19 +6,6 @@ The BIG DATA Analysis Project is an end-to-end data science initiative designed 
 ## Project Description
 This project takes a robust approach to data analysis, starting with a thorough exploratory analysis to understand underlying patterns and anomalies before transitioning to pre-processing where data is cleaned and transformed for modeling. The project uses a variety of machine learning algorithms to predict outcomes and derive insights, with a special focus on optimizing the K-Nearest Neighbors algorithm to determine the best possible predictive model. The project concludes with a detailed evaluation of the models' performance and a deployment strategy to integrate these models into production environments.
 
-### Key Objectives:
-- To perform detailed exploratory data analyses to uncover hidden patterns and insights.
-- To clean and preprocess data to ensure high-quality inputs for modeling.
-- To develop and optimize predictive models using machine learning techniques.
-- To rigorously evaluate the models using industry-standard metrics.
-- To deploy the best-performing models into a production setting.
-
-### Tools and Technologies:
-- **Data Analysis and Visualization**: Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Machine Learning**: Scikit-Learn, TensorFlow
-- **Model Optimization and Evaluation**: GridSearchCV, cross-validation techniques
-- **Deployment**: Flask for API development, Docker for containerization
-
 ## Table of Contents
 - [Installation](#installation)
 - [Project Details and Description](#exploratory-Data-Analysis)
