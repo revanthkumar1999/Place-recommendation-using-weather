@@ -23,11 +23,7 @@ This project takes a robust approach to data analysis, starting with a thorough 
 
 ## Table of Contents
 - [Installation](#installation)
-- [EDA](#exploratory-Data-Analysis)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Project Details and Description](#exploratory-Data-Analysis)
 
 ## Installation
 To set up this project locally, follow these steps:
