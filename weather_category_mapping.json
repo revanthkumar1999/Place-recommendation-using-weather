@@ -1,0 +1,240 @@
+{
+    "Clear": [
+        "park",
+        "zoo",
+        "amusement_park",
+        "aquarium"
+    ],
+    "Partly cloudy": [
+        "park",
+        "zoo",
+        "museum",
+        "art_gallery"
+    ],
+    "Cloudy": [
+        "museum",
+        "art_gallery",
+        "shopping_mall",
+        "movie_theater"
+    ],
+    "Overcast": [
+        "museum",
+        "art_gallery",
+        "shopping_mall"
+    ],
+    "Mist": [
+        "museum",
+        "art_gallery",
+        "cafe"
+    ],
+    "Patchy rain possible": [
+        "shopping_mall",
+        "movie_theater",
+        "museum"
+    ],
+    "Patchy snow possible": [
+        "indoor_ski_resort",
+        "mall",
+        "movie_theater"
+    ],
+    "Patchy sleet possible": [
+        "shopping_mall",
+        "indoor_pool",
+        "gym"
+    ],
+    "Patchy freezing drizzle possible": [
+        "spa",
+        "hotel",
+        "indoor_pool"
+    ],
+    "Thundery outbreaks possible": [
+        "cinema",
+        "shopping_mall",
+        "indoor_recreation_center"
+    ],
+    "Blowing snow": [
+        "indoor_ski_resort",
+        "spa",
+        "hotel"
+    ],
+    "Blizzard": [
+        "indoor_ski_resort",
+        "hotel"
+    ],
+    "Fog": [
+        "spa",
+        "hotel",
+        "night_club",
+        "restaurant"
+    ],
+    "Freezing fog": [
+        "spa",
+        "hotel",
+        "cinema"
+    ],
+    "Patchy light drizzle": [
+        "shopping_mall",
+        "movie_theater",
+        "art_gallery"
+    ],
+    "Light drizzle": [
+        "museum",
+        "art_gallery",
+        "cafe"
+    ],
+    "Freezing drizzle": [
+        "spa",
+        "hotel",
+        "cinema"
+    ],
+    "Heavy freezing drizzle": [
+        "spa",
+        "hotel"
+    ],
+    "Patchy light rain": [
+        "shopping_mall",
+        "movie_theater",
+        "museum"
+    ],
+    "Light rain": [
+        "museum",
+        "shopping_mall",
+        "movie_theater",
+        "art_gallery"
+    ],
+    "Moderate rain at times": [
+        "museum",
+        "shopping_mall",
+        "movie_theater"
+    ],
+    "Moderate rain": [
+        "museum",
+        "shopping_mall",
+        "cinema"
+    ],
+    "Heavy rain at times": [
+        "museum",
+        "shopping_mall",
+        "cinema"
+    ],
+    "Heavy rain": [
+        "museum",
+        "shopping_mall",
+        "cinema"
+    ],
+    "Light freezing rain": [
+        "spa",
+        "hotel",
+        "cinema"
+    ],
+    "Moderate or heavy freezing rain": [
+        "spa",
+        "hotel"
+    ],
+    "Light sleet": [
+        "shopping_mall",
+        "gym",
+        "indoor_pool"
+    ],
+    "Moderate or heavy sleet": [
+        "shopping_mall",
+        "gym",
+        "indoor_pool"
+    ],
+    "Patchy light snow": [
+        "indoor_ski_resort",
+        "mall",
+        "cinema"
+    ],
+    "Light snow": [
+        "indoor_ski_resort",
+        "mall",
+        "cinema"
+    ],
+    "Patchy moderate snow": [
+        "indoor_ski_resort",
+        "mall",
+        "cinema"
+    ],
+    "Moderate snow": [
+        "indoor_ski_resort",
+        "mall",
+        "cinema"
+    ],
+    "Patchy heavy snow": [
+        "indoor_ski_resort",
+        "hotel"
+    ],
+    "Heavy snow": [
+        "indoor_ski_resort",
+        "hotel"
+    ],
+    "Ice pellets": [
+        "indoor_ice_rink",
+        "mall",
+        "cinema"
+    ],
+    "Light rain shower": [
+        "shopping_mall",
+        "museum",
+        "movie_theater"
+    ],
+    "Moderate or heavy rain shower": [
+        "shopping_mall",
+        "museum",
+        "cinema"
+    ],
+    "Torrential rain shower": [
+        "shopping_mall",
+        "museum",
+        "cinema"
+    ],
+    "Light sleet showers": [
+        "shopping_mall",
+        "gym",
+        "indoor_pool"
+    ],
+    "Moderate or heavy sleet showers": [
+        "shopping_mall",
+        "gym",
+        "indoor_pool"
+    ],
+    "Light snow showers": [
+        "indoor_ski_resort",
+        "mall"
+    ],
+    "Moderate or heavy snow showers": [
+        "indoor_ski_resort",
+        "hotel"
+    ],
+    "Light showers of ice pellets": [
+        "indoor_ice_rink",
+        "mall"
+    ],
+    "Moderate or heavy showers of ice pellets": [
+        "indoor_ice_rink",
+        "mall"
+    ],
+    "Patchy light rain with thunder": [
+        "shopping_mall",
+        "cinema"
+    ],
+    "Moderate or heavy rain with thunder": [
+        "shopping_mall",
+        "cinema"
+    ],
+    "Patchy light snow with thunder": [
+        "indoor_ski_resort",
+        "mall"
+    ],
+    "Moderate or heavy snow with thunder": [
+        "indoor_ski_resort",
+        "hotel"
+    ],
+    "Sunny": [
+        "beach",
+        "park",
+        "zoo",
+        "amusement_park"
+    ]
+}
