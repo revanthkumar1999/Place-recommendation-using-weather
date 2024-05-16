@@ -1,7 +1,5 @@
 # Place-recommendation-using-weather
 
-# BIG DATA Analysis Project
-
 ## Overview
 The BIG DATA Analysis Project is an end-to-end data science initiative designed to harness the power of big data through advanced analytics and machine learning techniques. Focused on extracting and interpreting complex patterns, this project serves as a blueprint for leveraging data in ways that can dramatically influence decision-making processes in business, science, and public policy.
 
