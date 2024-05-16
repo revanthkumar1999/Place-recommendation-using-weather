@@ -23,7 +23,7 @@ This project takes a robust approach to data analysis, starting with a thorough 
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
+- [EDA](#exploratory-Data-Analysis)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -40,7 +40,7 @@ cd BIG_DATA_FINAL
 
 # Install required dependencies
 pip install -r requirements.txt
-
+```
 
 ## Sections
 
